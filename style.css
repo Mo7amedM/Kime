@@ -8,3 +8,10 @@
     cursor: url(img/1111.png),
       auto !important;
   }
+  .template main {
+    position: absolute;
+    top: 450px;
+    left: 79%;
+    bottom: 77px;
+    width: 100%;
+  }
